@@ -67,4 +67,4 @@ The per-round success probability is accumulated in `Pg`.
 2. Open MATLAB in the repo folder.
 3. Run:
    ```matlab
-   one_mode
+   main
